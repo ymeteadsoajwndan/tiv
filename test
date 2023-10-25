@@ -1,0 +1,11 @@
+<form action="/site-search">
+                        <div class="form--inline clearfix">
+                            <div class="js-form-item form-item js-form-type-textfield form-type-textfield js-form-item-search-api-fulltext form-item-search-api-fulltext">
+                                <input type="text" name="q" value="" size="30" maxlength="128" placeholder="Type in your search...." class="form-text form-control">
+                            </div>
+
+                            <div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions">
+                                <input type="submit" id="edit-submit-global-search-results" value="Search" class="button form-submit btn btn-primary">
+                            </div>
+                        </div>
+                    </form>
